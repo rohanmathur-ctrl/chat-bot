@@ -1,0 +1,6 @@
+{
+  "name": "Nexus AI",
+  "description": "Direct thread interface for asynchronous reasoning, distributed systems modeling, and zero-latency synthesis with live artifacts and vision OCR scanning.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
